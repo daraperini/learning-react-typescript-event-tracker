@@ -4,8 +4,6 @@ Hello! Event Tracker's code was refactored during Alura's course *From scratch: 
 
 I mocked an API using JSON server to practice HTTP requests using Recoil. Follow the steps below to inicialize the API and access the final result of the page.
 
-To see the final result, click [here](https://learning-react-typescript-event-tracker.vercel.app/).
-
 ## Used tools:
 
 * React
@@ -41,8 +39,6 @@ To see the final result, click [here](https://learning-react-typescript-event-tr
 Olá! O código do Event Tracker foi refatorado durante o curso da Alura *React: gerenciando estado com Recoil*, com o objetivo de remover prop drilling gerenciando estados utilizando o Recoil. Foram criados hooks customizados para cada operação, extraindo cada código por responsabilidade e encapsulando o acesso ao Recoil, o que facilita futuras refatorações do código. Foi, ainda, criado um componente com resposabilidade de debuger - considerando que o Recoil não possui uma extensão própria com esse objetivo -  para auxiliar durante o desenvolvimento.
 
 Uma API foi mockada utilizando JSON server para prática de requisições HTTP utilizando Recoil. Siga os passos abaixo para iniciar a API e ver o resultado final da página.
-
-Para acessar o resultado final da página, clique [aqui](https://learning-react-typescript-event-tracker.vercel.app/).
 
 ## Ferramentas utilizadas:
 
