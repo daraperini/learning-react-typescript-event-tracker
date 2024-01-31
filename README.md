@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# Alura Event Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! Event Tracker's code is being refactored during Alura's course *From scratch: HTML and CSS for Web Projects* with the goal to remove prop drilling while managing states using Recoil.
 
-## Available Scripts
+> Project in progress
 
-In the project directory, you can run:
+To see the final result, click [here](https://learning-react-typescript-event-tracker.vercel.app/).
 
-### `npm start`
+## Used tools:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* TypeScript
+* Recoil
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
-### `npm test`
+#
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Alura Event Tracker
 
-### `npm run build`
+Olá! O código do Event Tracker está sendo refatorado durante o curso da Alura *React: gerenciando estado com Recoil*, com o objetivo de remover prop drilling gerenciando estados utilizando o Recoil.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> Projeto em andamento
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para acessar a página atual, clique [aqui](https://learning-react-typescript-event-tracker.vercel.app/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Ferramentas utilizadas:
 
-### `npm run eject`
+* React
+* TypeScript
+* Recoil
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
